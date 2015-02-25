@@ -74,7 +74,7 @@ plugin.bootstrap_package {
 
 
 
-			icon-font-path =          "EXT:bootstrap_amelia/Resources/Public/Fonts/"
+			icon-font-path =          "../../../../../typo3conf/ext/bootstrap_amelia/Resources/Public/Fonts/"
 
 			icon-font-name =          "glyphicons-halflings-regular"
 
